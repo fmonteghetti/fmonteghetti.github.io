@@ -53,6 +53,11 @@ table {
     border-bottom: 1px solid $custom-color-accent;
 }
 
+  // Footer border
+  .site-footer {
+    border-top: 1px solid $custom-color-accent;
+  }
+  
     // Site title
 .site-title {
   color: $text-color;

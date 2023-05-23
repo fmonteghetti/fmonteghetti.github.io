@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img align="right" src="img/photo.png" width="125" height="167">
+<img align="right" src="img/photo.webp" width="125" height="167">
 
 I am a post-doctoral researcher in the [Applied Mathematics department (UMA)](https://uma.ensta-paris.fr/) of [ENSTA Paris](https://www.ensta-paris.fr/). I am a member of the [POEMS](https://uma.ensta-paris.fr/poems/) team, where I work with Patrick Joly and Sonia Fliss on homogenization of thin layers for Maxwell's equations.
 

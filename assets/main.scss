@@ -1,0 +1,62 @@
+---
+---
+/*
+ * This file overrides part of the .scss files provided by the minima 
+ * theme (available in minima/_sass).
+ * Remark: The dashed lines above are required.
+ */
+
+    /* Custom template colors */
+$custom-color-accent: #6acbff;
+$custom-color-text: #e6e6e6;
+$custom-color-bg: #1d1d1d;
+
+    /* Re-definition of minima theme colors (ref. minima/_sass/minima.scss) */
+$background-color: $custom-color-bg;
+$text-color: $custom-color-text; 
+$brand-color: $custom-color-accent; /* hyperlinks */
+/* $grey-color is used for: table, blockquotes, header, footer, title, 
+but we do not redefine it. */
+
+    /* Import theme */
+@import "{{ site.theme }}";
+
+    /* Re-define hardcoded colors/features of minima. */
+
+    // Code quote
+code {
+  background-color: $custom-color-bg;
+}
+
+.highlight {
+    background: $custom-color-bg;
+  .highlighter-rouge & {
+    background: $custom-color-bg;
+  }
+}
+
+    // Table
+table {
+    tr {
+        &:nth-child(even) {
+          background-color: lighten($custom-color-bg, 6%);
+        }
+      }
+  th {
+    background-color: lighten($custom-color-bg, 3%);
+  }
+}
+
+    // Header border
+.site-header {
+    border-top: 0px solid $custom-color-accent;
+    border-bottom: 1px solid $custom-color-accent;
+}
+
+    // Site title
+.site-title {
+  color: $text-color;
+  &:visited {
+    color: $text-color;
+  }
+}

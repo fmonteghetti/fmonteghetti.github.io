@@ -50,26 +50,29 @@ The Journal of the Acoustical Society of America, 140 (3), 2016, 1663–1674 (12
 - Analysis and discretization of time-domain impedance boundary conditions in aeroacoustics.  
 Supervisors: Denis Matignon, Estelle Piot.  
 ISAE-SUPAERO (Université de Toulouse), October 2018.  
-[[hal](https://tel.archives-ouvertes.fr/tel-01910643)]
+[[hal](https://tel.archives-ouvertes.fr/tel-01910643)] [[slides](/data/slides/2018-10-16_PhD-Defense.pdf)]
 
 # Conferences (as invited speaker) <a href="#top">▲</a> <a name="conferences-invited"></a>
 
 - Complex-scaling method for the complex plasmonic resonances of particles with corners.  
 Anne-Sophie Bonnet-Ben Dhia, Christophe Hazard, Florian Monteghetti*.  
-Singular Days 2022. Nice, France. 2–4 November 2022.
+Singular Days 2022. Nice, France. 2–4 November 2022.  
+[[slides](/data/slides/2022-11-03_Singular-Days.pdf)]
 
 - Time-local formulation of passive impedance boundary condition.  
 Florian Monteghetti*.  
-Workshop on Herglotz-Nevanlinna Functions and their Applications to Dispersive Systems and Composite Materials. Luminy (CIRM), France. 23–27 May 2022.
+Workshop on Herglotz-Nevanlinna Functions and their Applications to Dispersive Systems and Composite Materials. Luminy (CIRM), France. 23–27 May 2022.  
+[[slides](/data/slides/2022-05-25_CIRM.pdf)]
 
 - Complex-scaling method for the complex plasmonic resonances of particles with corners.  
 Anne-Sophie Bonnet-Ben Dhia, Christophe Hazard, Florian Monteghetti*.  
-Mathematics of Wave Phenomena 2022, minisymposium “Mathematical Aspects of Wave Propagation in Plasmonic Structures”. Karlsruhe, Germany. 14–18 February 2022.
+Mathematics of Wave Phenomena 2022, minisymposium “Mathematical Aspects of Wave Propagation in Plasmonic Structures”. Karlsruhe, Germany. 14–18 February 2022.  
+[[slides](/data/slides/2022-02-14_Mathematics-of-Waves-Phenomena.pdf)]
 
 - Analysis and Discretization of Time-Domain Impedance Boundary Conditions in Aeroacoustics.  
 Florian Monteghetti*, Denis Matignon, Estelle Piot.  
-Journées Ondes du Sud-Ouest 2019. Le Barp, France. 12–14 March 2019.
-
+Journées Ondes du Sud-Ouest 2019. Le Barp, France. 12–14 March 2019.  
+[[slides](/data/slides/2019-03-14_JOSO.pdf)]
 
 # Conferences (as contributed speaker or co-author) <a href="#top">▲</a> <a name="conferences-contributed"></a>
 
@@ -81,21 +84,23 @@ Proceedings: [[doi](https://doi.org/10.1016/j.ifacol.2022.11.090)].
 - Computation of plasmon resonances localized at corners using frequency-dependent complex scaling.  
 Anne-Sophie Bonnet-Ben Dhia, Christophe Hazard, Florian Monteghetti*.  
 14th International Conference on Mathematical and Numerical Aspects of Wave Propagation. Vienna, Austria. 26–30 August 2019.  
+Proceedings: [[url](/data/proc/2019-08_Waves.pdf)].
 
 - Quadrature-based diffusive representation of the fractional derivative with applications in aeroacoustics and eigenvalue methods for stability.  
 Florian Monteghetti*, Denis Matignon, Estelle Piot.  
 10th Workshop Structural Dynamical Systems: Computational Aspects (SDS2018). Capitolo (Monopoli), Italy. 12–15 June 2018.  
+Proceedings: [[url](/data/proc/2018-06_SDS.pdf)]. [[slides](/data/slides/2018-06-13-SDS.pdf)]
 
 - Stability of linear fractional differential equations with delays: a coupled parabolic-hyperbolic PDEs formulation.  
 Florian Monteghetti*, Ghislain Haine, Denis Matignon.  
 20th World Congress of the International Federation of Automatic Control (IFAC WC). Toulouse, France. 9–14 July 2017.  
-Proceedings: [[doi](https://doi.org/10.1016/j.ifacol.2017.08.1966), [hal](https://hal.archives-ouvertes.fr/hal-01618048/)].
+Proceedings: [[doi](https://doi.org/10.1016/j.ifacol.2017.08.1966), [hal](https://hal.archives-ouvertes.fr/hal-01618048/)]. [[slides](/data/slides/2017-07-13_IFAC-WC.pdf)]
 
 
 - Asymptotic stability of the linearised Euler equations with long-memory impedance boundary condition.  
 Florian Monteghetti*, Denis Matignon, Estelle Piot, and Lucas Pascal.  
 13th International Conference on Mathematical and Numerical Aspects of Wave Propagation. Minneapolis, MN, USA. 15–19 May 2017.  
-Proceedings: [[hal](https://hal.archives-ouvertes.fr/hal-01618060/)].
+Proceedings: [[hal](https://hal.archives-ouvertes.fr/hal-01618060/)]. [[slides](/data/slides/2017-05-19_Waves.pdf)]
 
 
 - Simulation temporelle d’un modèle d’impédance de liner en utilisant la représentation diffusive d’opérateurs.  

@@ -7,7 +7,7 @@ layout: home
 
 <img align="right" src="img/photo.webp" width="125" height="167">
 
-I am a post-doctoral researcher in the [Applied Mathematics department (UMA)](https://uma.ensta-paris.fr/) of [ENSTA Paris](https://www.ensta-paris.fr/). I am a member of the [POEMS](https://uma.ensta-paris.fr/poems/) team, where I work with Patrick Joly and Sonia Fliss on homogenization of thin layers for Maxwell's equations.
+I am a "maître de conférences" (associate professor) at the [Institut de Mathématiques de Marseille (I2M)](https://www.i2m.univ-amu.fr/). I am a member of the [Applied Analysis](https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-appliquee-aa/) team.
 
 **Research interests**
 
@@ -33,10 +33,9 @@ Mathematically, my work centers around the analysis and discretization of determ
 
 **Contact**
 
-Mail: florian.monteghetti_at_ensta-paris.fr  
+Mail: florian.monteghetti_at_univ-amu.fr
 
-Bureau 2.2.30  
-ENSTA Paris, UMA  
-828 Boulevard des Maréchaux  
-91762 Palaiseau Cedex  
-France
+Campus Saint-Charles, Aix-Marseille Université\
+3 place Victor Hugo\
+13331 Marseille Cedex 3\
+France 

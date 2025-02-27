@@ -34,9 +34,23 @@ Mentions: Mathématiques et Applications, Dynamique des fluides.
 # Professional Experience
 
 <span style="text-align:left;"><b>
+    Institut de Mathématiques de Marseille, Applied Analysis team
+    <span style="float:right;">
+        2023-Pres.
+    </span>
+</b></span>
+<br>
+<span style="text-align:left;">
+    Maître de conférences
+    <span style="float:right;">
+        Marseille, France
+    </span>
+</span>
+
+<span style="text-align:left;"><b>
     ENSTA Paris, POEMS team
     <span style="float:right;">
-        2022-Pres.
+        2022-2023
     </span>
 </b></span>
 <br>

@@ -4,12 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+[Preprints](#preprints)  
 [Papers in peer-reviewed journals](#papers-in-peer-reviewed-journals)  
 [PhD thesis](#phd-thesis)  
 [Conferences (as invited speaker)](#conferences-invited)  
 [Conferences (as contributed speaker or co-author)](#conferences-contributed)  
 [Poster](#poster)  
 [Miscellaneous](#miscellaneous)
+
+# Preprints <a href="#top">▲</a> <a name="preprints"></a>
+
+- A complex-scaled boundary integral equation for the embedded eigenvalues and complex resonances of the Neumann-Poincaré operator on domains with corners.     
+Luiz M. Faria, Florian Monteghetti.    
+2025.\
+[[url](https://hal.science/hal-04970403)]
 
 # Papers in peer-reviewed journals <a href="#top">▲</a> <a name="papers-in-peer-reviewed-journals"></a>
 
